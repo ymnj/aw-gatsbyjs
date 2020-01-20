@@ -5,7 +5,6 @@ nav {
     list-style-type: none;
     padding: 0;
     overflow: hidden;
-    background-color: #333;
   }
   li {
     float: left;
@@ -21,13 +20,13 @@ nav {
 
   /* Change the link color to #111 (black) on hover */
   li a:hover {
-    background-color: #111;
+    //background-color: #111;
   }
   .link {
-    color: white;
+    color: #FC5C28;
   }
 
   .active-page-link {
-    color: red;
+    // color: red;
   }
 }

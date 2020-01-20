@@ -1,13 +1,12 @@
 import React from 'react';
-import Layout from '../components/layout';
+import Layout from '../components/04-templates/layout';
 import '../styles/index.scss';
 
 const IndexPage = () => {
   return (
     <div>
       <Layout>
-        <h1>Hello</h1>
-        <h2>I am Tom</h2>
+        HOME PAGE
       </Layout>
     </div>
   )

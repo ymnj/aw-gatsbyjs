@@ -1,9 +1,9 @@
 import React from 'react';
 
-import Footer from './footer';
-import Header from './header';
+import layoutStyles from './layout.module.scss';
+import Footer from '../03-organisms/footer';
+import Header from '../03-organisms/header';
 
-import layoutStyles from './scss/layout.module.scss';
 
 const Layout = (props) => {
   return (

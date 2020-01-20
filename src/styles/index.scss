@@ -1,3 +1,8 @@
+@import "~foundation-sites/scss/foundation";
+@include foundation-everything;
+
+$primary-orange: #FC5C28;
+
 body {
-  background-color: #9d9d9d;
+  background-color: #ecf3f9;
 }
