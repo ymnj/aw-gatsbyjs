@@ -5,7 +5,7 @@ import headerStyles from './scss/header.module.scss'
 
 const Header = () => {
   return (
-    <div className={headerStyles.header}>
+    <div className={`grid-x grid-margin-x ${headerStyles.header}`}>
       <Navigation />
     </div>
   )
