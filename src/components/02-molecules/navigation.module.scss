@@ -1,0 +1,53 @@
+$light-grey: #CDCDCD;
+
+nav {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: $light-grey;
+  padding: 2rem 0;
+  ul {
+    margin: 0;
+    list-style-type: none;
+    padding: 0;
+<<<<<<< HEAD:src/components/scss/navigation.module.scss
+=======
+    overflow: hidden;
+>>>>>>> d2b545222cab609d5cadb50a03ec57f47bc824a9:src/components/02-molecules/navigation.module.scss
+  }
+  li {
+    float: left;
+  }
+
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+
+  /* Change the link color to #111 (black) on hover */
+  li a:hover {
+<<<<<<< HEAD:src/components/scss/navigation.module.scss
+    background-color: #0D3348;
+=======
+    //background-color: #111;
+>>>>>>> d2b545222cab609d5cadb50a03ec57f47bc824a9:src/components/02-molecules/navigation.module.scss
+  }
+  .link {
+    color: #FC5C28;
+  }
+
+  .active-page-link {
+<<<<<<< HEAD:src/components/scss/navigation.module.scss
+    color: #F15A26;
+  }
+
+  .logo {
+
+=======
+    // color: red;
+>>>>>>> d2b545222cab609d5cadb50a03ec57f47bc824a9:src/components/02-molecules/navigation.module.scss
+  }
+}
