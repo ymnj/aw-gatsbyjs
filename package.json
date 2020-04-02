@@ -17,14 +17,7 @@
     "foundation-sites": "^6.6.2",
     "gatsby": "^2.18.12",
     "gatsby-plugin-sass": "^2.1.27",
-<<<<<<< HEAD
     "gatsby-source-drupal": "^3.4.2",
-=======
-    "gatsby-plugin-sharp": "^2.3.13",
-    "gatsby-source-filesystem": "^2.1.46",
-    "gatsby-transformer-sharp": "^2.3.13",
-    "jquery": "^3.4.1",
->>>>>>> d2b545222cab609d5cadb50a03ec57f47bc824a9
     "node-sass": "^4.13.1",
     "react": "^16.12.0",
     "react-dom": "^16.12.0"
